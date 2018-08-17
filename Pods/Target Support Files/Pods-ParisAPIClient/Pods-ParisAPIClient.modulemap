@@ -1,0 +1,6 @@
+framework module Pods_ParisAPIClient {
+  umbrella header "Pods-ParisAPIClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
